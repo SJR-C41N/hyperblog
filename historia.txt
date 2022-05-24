@@ -1,5 +1,3 @@
 esta es la vida de Santiago
 
-Nacido en Argentina en 1996
-
-Con 26 años esta aprendiendo git
+Graduado del IES Guadalpin
